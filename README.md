@@ -17,7 +17,7 @@ In this module activity we were introduced to Jupyter notebook and the pandas li
 - **How does replacing the 9th graders' math and reading scores affect Thomas High School's performance relative to the other schools?** With the adjusted calculations, Thomas High School still placed second in terms of overall performance when compared to the other schools in the school district.
 
 - **In addition, the removal of the 9th Grade scores From Thomas High School did not appear to change the correlations between standardized test scores and school spending, size, or type.**
-- Charter schools and those that have fewer students had a tendency to achieve higher exam averages.  However, you could almost argue that there is an inverse relationship between the amount of money spent per student and the average exam scores in math and reading.
+- Charter schools and those that have fewer students generally achieve higher exam averages.  However, you could argue that there is an inverse relationship between the amount of money spent per student and the average exam scores in math and reading.
 
 ![image showing exam scores and school size, spending,type](https://github.com/murphyk2021/School_District_Analysis/blob/a4ac6115e4cd8464a32667e37620a77a7ff7dbfd/School_District_Analysis/Resources/exam%20score%20correlations.PNG)
 - - -
